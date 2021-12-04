@@ -1,4 +1,5 @@
-
+//HelloWorld.java
+//With Using object
 package Test;
 
 import java.lang.*;
@@ -39,6 +40,7 @@ class HelloWorld {
 
 
 //With Static keyword
+//Without using object
 //file name -> type_casting.java
 package Test;
 

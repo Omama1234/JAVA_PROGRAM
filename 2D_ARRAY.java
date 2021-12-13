@@ -17,3 +17,8 @@ public class 2D_ARRAY {
 	}
 
 }
+
+
+OUTPUT ->
+	arr[0]=null
+

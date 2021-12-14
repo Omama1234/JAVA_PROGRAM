@@ -15,3 +15,13 @@ class WrapperClass{
 	}
 	
 }
+
+
+OUTPUT ->
+	5
+        5
+        12.45
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.

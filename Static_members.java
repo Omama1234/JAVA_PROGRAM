@@ -37,3 +37,13 @@ class HelloWorld {
 	
 
 }
+
+OUTPUT ->
+	
+	0
+        World
+        INDIA
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.

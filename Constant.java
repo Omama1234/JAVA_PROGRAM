@@ -15,3 +15,15 @@ public class Constant
 }
 OUTPUT ->
 1235
+
+
+//Expalantion ->	
+// Separate groups of digits in numeric literals, Which improves the readability of our code
+//You cannot use underscore at the beginning or end of number .
+/*Example ->   
+  int a=_10; //Error,this is an identifier,not a numeric literals 
+  int a=10_;//Error
+  
+ 
+ */
+	

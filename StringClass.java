@@ -34,10 +34,10 @@ public class Main
 }
 OUTPUT ->
 Enter a String ->
-Santosh
-7
+Santosh Kumar
+13
 Reversed String ->
-hsotnaS
+ramuK hsotnaS
 
 ...Program finished with exit code 0
 Press ENTER to exit console.
